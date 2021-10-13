@@ -1,0 +1,3 @@
+maria; 9; 6;
+fernando; 7; 8;
+geovana; 4; 7;
