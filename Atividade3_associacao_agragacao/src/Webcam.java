@@ -21,6 +21,12 @@ public class Webcam {
 	public void setMP(String mP) {
 		MP = mP;
 	}
+
+	@Override
+	public String toString() {
+		
+		return "Teclado [marca=" + marca + "MP=" + MP + "]";
+	}
 	
 	
 	

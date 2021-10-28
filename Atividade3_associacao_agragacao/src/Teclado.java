@@ -21,6 +21,13 @@ public class Teclado {
 	public void setCor(String cor) {
 		this.cor = cor;
 	}
+
+	@Override
+	public String toString() {
+		return "Teclado [marca=" + marca + "cor=" + cor + "]";
+	}
+	
+	
 	
 	
 }
